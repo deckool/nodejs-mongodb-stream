@@ -4,7 +4,7 @@
   "author": { 
 	"name": "KHASATHAN", 
 	"email": "khasathan@gmail.com"
-  }
+  },
   "dependencies": {
     "socket.io": "0.9.14",
     "mongoose": "3.6.5",
